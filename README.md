@@ -18,3 +18,6 @@ It's time to install the requirements.txt file using below command:
 ==> pip install -r requirements.txt (For Windows)
 
 Run the server Using this command: ==> python3 manage.py runserver (For Linux) ==> python manage.py runserver (For Windows)
+
+Username:habib
+Password:habib
